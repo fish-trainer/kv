@@ -10,7 +10,8 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 
 ## v1.5.0
 
-- add JSON store 
+- add JSON store
+- go mod update
 
 ## v1.4.2
 

@@ -1,6 +1,6 @@
 module github.com/bborbe/kv
 
-go 1.21.7
+go 1.22.4
 
 require (
 	github.com/bborbe/errors v1.2.0
